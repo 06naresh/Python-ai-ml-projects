@@ -28,4 +28,4 @@ It highlights my learning journey and demonstrates practical implementations tha
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/python-ai-ml-projects.git
+   git clone https://github.com/06naresh/Python-ai-ml-projects.git
