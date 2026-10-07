@@ -1,4 +1,4 @@
-# Python AI/ML Projects.
+# Python AI/ML Projects
 
 This repository contains a collection of my **self-created projects** in Python, Artificial Intelligence, and Machine Learning.  
 It serves as a portfolio to showcase my technical skills, creativity, and problem-solving ability across different domains.
